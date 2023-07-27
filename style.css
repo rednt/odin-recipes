@@ -1,0 +1,15 @@
+nav,a{
+    float: left;
+    text-decoration: none;
+}
+
+.noodle{
+    border-color:beige;
+    border-radius: 1px;
+    border-style: groove;
+}
+
+section{
+    float:right;
+
+}
