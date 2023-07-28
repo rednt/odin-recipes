@@ -1,15 +1,51 @@
-nav,a{
-    float: left;
-    text-decoration: none;
+*{
+    background-color: darksalmon;
 }
 
+a{
+    text-decoration: none;
+    color: rgb(128, 83, 0);
+    font-weight: bold;
+}
+
+.hed{
+    width: 80%;
+    float: right;
+}
+header {
+    text-align: center;
+  }
+  
+  nav {
+    width: 30%;
+    float: top;
+    
+  }
+ 
+  
+  table,th,tr{
+    text-align: center;
+    border-style: groove;
+    border-collapse: collapse;
+}
+
+body{
+    size: 100%;
+}
 .noodle{
     border-color:beige;
     border-radius: 1px;
     border-style: groove;
 }
 
-section{
-    float:right;
+.Ramen{
+    text-align:center ;
+}
 
+.smooth{
+    text-align: center;
+}
+
+h1{
+    color: crimson;
 }
