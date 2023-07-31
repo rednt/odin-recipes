@@ -28,11 +28,11 @@ section{
 
 
 .smo{
-    float: left;    
+    display: block;    
 }
 
 .rmn{
-    float: left;
+    display: block;
 }
   
 table,th,tr{
@@ -45,7 +45,6 @@ table,th,tr{
 .noodle{
     border: 5px;
     border-style: groove;
-    
 }
 
 .Ramen{
